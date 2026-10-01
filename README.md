@@ -28,8 +28,7 @@ Os exercícios ajudaram a compreender melhor como os elementos HTML podem ser ut
 
 ---
 
-## Tecnologias Utilizadas
-
+## Ferramentas Utilizadas
 * HTML
 * Markdown
 * Git
