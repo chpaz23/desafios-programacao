@@ -12,7 +12,7 @@
 |  Nº | Desafios-programacao / Lição | Breve Explicação                                                                                        | Status na Plataforma |         Imagem Comprobatória        |
 | :-: | :---------------------- | :------------------------------------------------------------------------------------------------------ | :------------------: | :---------------------------------: |
 | Nº | Desafio / Lição | Breve Explicação | Status na Plataforma | Imagem Comprobatória |
-| :---: | :--- | :--- | :---: | :---: |
+| --- | --- | --- | --- | --- |
 | 01 | HTML Semântico | Prática de elementos semânticos para estruturar e organizar corretamente o conteúdo de uma página HTML. | Aprovado | ![Print 01](./prints/print_01.png) |
 | 02 | Textos | Utilização de elementos HTML para criar e organizar textos dentro de uma página. | Aprovado | ![Print 02](./prints/print_02.png) |
 | 03 | Tempo | Prática de elementos HTML relacionados à representação de informações de tempo. | Aprovado | ![Print 03](./prints/print_03.png) |
